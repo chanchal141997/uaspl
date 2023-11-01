@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+<br />
+<b>Warning</b>:  Undefined array key "phone" in <b>C:\xampp\htdocs\ERP_Rashtriya\examples\admin\id_card.php</b> on line <b>19</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $conn in <b>C:\xampp\htdocs\ERP_Rashtriya\examples\admin\id_card.php</b> on line <b>46</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\ERP_Rashtriya\examples\admin\id_card.php:46
+Stack trace:
+#0 C:\xampp\htdocs\ERP_Rashtriya\examples\admin\id_card.php(46): mysqli_close(NULL)
+#1 {main}
+  thrown in <b>C:\xampp\htdocs\ERP_Rashtriya\examples\admin\id_card.php</b> on line <b>46</b><br />
